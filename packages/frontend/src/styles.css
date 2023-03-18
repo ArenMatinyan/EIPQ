@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --deep-blue: #004FCD;
+    --blue: #0062FF;
+    --border-color:#E2E2EA;
+    --content-color:  #F5F5F5;
+    --black: #171725;
+    --filter-color:#F6F6F9;
+}
